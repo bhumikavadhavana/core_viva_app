@@ -1,6 +1,10 @@
 # viva_app
+<img src="https://github.com/bhumikavadhavana/core_viva_app/assets/131368253/79e606d5-adee-403e-95dd-80b3c61f978f" width = "300px">
+<img src="https://github.com/bhumikavadhavana/core_viva_app/assets/131368253/18919d73-a341-4728-bfd3-291dd92af516" width = "300px">
+<img src="https://github.com/bhumikavadhavana/core_viva_app/assets/131368253/c6a0d4e9-bc3d-498b-8d29-3dacc71b2512" width = "300px">
+<img src="https://github.com/bhumikavadhavana/core_viva_app/assets/131368253/e2ba175d-f180-48db-9c49-ec8765bc664c" width = "300px">
 
-A new Flutter project.
+
 
 ## Getting Started
 
